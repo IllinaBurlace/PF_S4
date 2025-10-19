@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "PF_S4.txt"
-hash = "dbbe44a6a465ca785b905fdebccbf25732fbb73464767592acc903f31d0020e2"
-
-[[files]]
-file = "modlist.txt"
-hash = "4160ccaf04e13ee7356488748133a7ee4a8ad3ea28eff5d984e2ec79821db0ce"
-
-[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "7737aca7055892b1023de225a2b36a04763f108dda5e3e948c94236df81901f8"
 metafile = true
