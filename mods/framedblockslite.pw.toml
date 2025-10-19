@@ -1,0 +1,13 @@
+name = "FramedBlocksLite"
+filename = "FramedBlocksLite-10.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IwYDx2dW/versions/kX5XAzAY/FramedBlocksLite-10.3.2.jar"
+hash-format = "sha512"
+hash = "950f6b44824a2c95090eb19ce4cb61393d87f44e1af08b04fa9006cee5dff5e9a651821e729e846ed7d1902509b7cf976cd31dca33fbc8f20a54ece44d7db95f"
+
+[update]
+[update.modrinth]
+mod-id = "IwYDx2dW"
+version = "kX5XAzAY"

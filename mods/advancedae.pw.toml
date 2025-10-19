@@ -1,0 +1,13 @@
+name = "AdvancedAE"
+filename = "AdvancedAE-1.6.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rxYaglEe/versions/WIKkDJ1t/AdvancedAE-1.6.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "7763bf120f156ac6be4c48c078a42e426db88abff6c4d4c65e6cc3b991db061bc798f296d89eb2746f04b005bcc0c024505be2ad12ae1a53d070e210d93a4f11"
+
+[update]
+[update.modrinth]
+mod-id = "rxYaglEe"
+version = "WIKkDJ1t"
